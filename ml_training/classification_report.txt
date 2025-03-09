@@ -1,0 +1,41 @@
+                               precision    recall  f1-score   support
+
+         acanthamoebkeratitis       1.00      0.00      0.00         1
+           acute appendicitis       0.00      1.00      0.00         0
+   acute kidney injury (aki)        1.00      0.00      0.00         1
+                   adenovirus       0.00      1.00      0.00         0
+                aflatoxicosis       1.00      0.00      0.00         1
+            allergic rhinitis       1.00      0.00      0.00         1
+                    arthritis       0.00      1.00      0.00         0
+            asperger syndrome       1.00      0.00      0.00         1
+               bladder cancer       1.00      0.00      0.00         1
+                       cancer       1.00      1.00      1.00         1
+                  cholesterol       0.00      1.00      0.00         0
+       chronic kidney disease       0.00      1.00      0.00         0
+                  common cold       1.00      0.00      0.00         1
+              crohn's disease       0.00      1.00      0.00         0
+                     epilepsy       0.00      1.00      0.00         0
+         erectile dysfunction       1.00      0.00      0.00         1
+                        fever       0.00      1.00      0.00         0
+                  fibromyalgi       0.00      1.00      0.00         0
+                 fibromyalgia       1.00      0.00      0.00         1
+                          flu       1.00      0.00      0.00         1
+                   gallstones       1.00      0.00      0.00         1
+              graves' disease       0.00      1.00      0.00         0
+     hashimoto's thyroiditis        1.00      0.00      0.00         1
+                 heart attack       0.00      1.00      0.00         0
+                heart disease       1.00      0.00      0.00         1
+                heart failure       1.00      0.00      0.00         1
+                       herpes       1.00      0.00      0.00         1
+                    influenza       0.00      1.00      0.00         0
+               kidney disease       0.00      1.00      0.00         0
+               kidney stones        1.00      0.00      0.00         1
+              prostate cancer       0.00      1.00      0.00         0
+         rheumatoid arthritis       1.00      0.00      0.00         1
+                       stroke       1.00      1.00      1.00         1
+           ulcerative colitis       1.00      0.00      0.00         1
+urinary tract infection (uti)       0.00      1.00      0.00         0
+
+                     accuracy                           0.10        20
+                    macro avg       0.57      0.49      0.06        20
+                 weighted avg       1.00      0.10      0.10        20
